@@ -1,38 +1,38 @@
 # Hey there, I'm Ruchir. 👨‍💻
 
-I am an engineer focused on building software that's **efficient, scalable, and built to last**. Whether I'm architecting complex **cross-platform apps** or solving algorithmic problems in **C++**, I prioritize creating robust solutions that work in the real world. ✨
+I’m a Computer Science student (B.Tech '27) and an engineer focused on building real-world software that actually works. My philosophy is simple: the smartest engineering isn't about overcomplicating things—it's about building reliable, intuitive tools and letting the work speak for itself. ✨
 
 ---
 
 ## 🛠️ The Tech Stack I Work With
 
 <p align="left">
-  <a href="https://cppreference.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++"/></a>&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="50" alt="Dart" title="Dart"/></a>&nbsp;&nbsp;
   <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50" alt="Flutter" title="Flutter"/></a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase"/></a>&nbsp;&nbsp;
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="50" alt="Supabase" title="Supabase"/></a>&nbsp;&nbsp;
+  <a href="https://cppreference.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++"/></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code"/></a>&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" title="Android Studio"/></a>&nbsp;&nbsp;
 </p>
 
-* **Core Focus:** App development and software engineering—building real products that solve real problems. Strong DSA foundation to back it up.
+* **Core Focus:** Cross-platform app development. I engineer applications that deliver a simple, intuitive UI on the frontend while remaining highly performant under the hood. Backed by a strong DSA foundation in C/C++.
 
-## 🚀 What I Aspire to Become
+## 🚀 Current Engineering Focus
 
-I aspire to be an engineer who builds **exceptional, secure, and scalable systems**:
+To build increasingly robust systems, I am actively bridging the gap between mobile frontend and smart backends:
 
-* **Master Architect:** Deep expertise in system design, clean architecture patterns, and bulletproof security implementations.
-* **Full-Stack Proficiency:** Seamless integration across mobile, web, and backend—building cohesive products end-to-end.
-* **UX-Driven Developer:** Creating intuitive, delightful user experiences backed by thoughtful design and smooth interactions.
-* **AI Integration Specialist:** Implementing intelligent features that enhance user experience and solve real problems.
+* **State Management & Architecture:** Implementing modern, clean architecture patterns utilizing **Riverpod**.
+* **Data Persistence:** Mastering local storage (SQLite) alongside BaaS platforms (Firebase, Supabase) for seamless offline-to-online experiences.
+* **UX-Driven Development:** Creating delightful user experiences backed by thoughtful design and smooth interactions.
+* **AI Integration:** Transitioning toward optimized, on-device AI integration and handling RESTful APIs (like the **Gemini API** used in my projects).
 
 ## 🎯 What I'm Looking For
 
-I am currently looking for **Software/App Development Internships**.
+I am currently seeking **Software/App Development Internships**.
 
-* **Goal:** Aiming for PPOs in app-focused companies.
-* **Mindset:** I care about performance, optimization, and writing secure code that scales.
+* **Goal:** I am eager to bring my autonomous building experience to a collaborative engineering team to tackle real-world problems. Aiming for PPOs in app-focused companies.
+* **Mindset:** Consistent, persistent, and honest. I care about performance, optimization, and writing clean code that scales.
 
 ---
 
