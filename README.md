@@ -42,12 +42,3 @@ I am currently seeking **Software/App Development Internships**.
   <a href="https://www.linkedin.com/in/ruchir-raina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>&nbsp;&nbsp;
   <a href="mailto:ruchirraina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"></a>
 </p>
-
----
-
-## 📊 Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=ruchirraina&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ruchirraina&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
