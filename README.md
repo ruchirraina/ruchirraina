@@ -32,12 +32,3 @@ I'm currently seeking **Software/App Development opportunities**.
 
 * **Goal:** Bring my hands-on building experience to a collaborative engineering team tackling real-world problems.
 * **Mindset:** Consistent, persistent, and honest — I care about performance, optimization, and writing clean code that scales and stays secure.
-
----
-
-## 📬 Contact Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ruchir-raina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"></a>&nbsp;&nbsp;
-  <a href="mailto:ruchirraina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"></a>
-</p>
